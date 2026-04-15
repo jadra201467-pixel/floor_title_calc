@@ -12,3 +12,25 @@ Cost Estimation: Provides a total order cost including all main and auxiliary ma
 * **Language:** Python 3.12
 * **Framework:** Streamlit
 * **Libraries:** Matplotlib (Visualization), Math (Geometry)
+Этот калькулятор разработан для практического использования в специализированных строительных торговых точках.
+Основные возможности программы:
+Точный расчет плитки: Вычисляет необходимое количество материала исходя из площади пола.
+Расходные материалы: Рассчитывает объем клея и затирки, а также количество зажимов системы выравнивания плитки (СВП) в штуках.
+Учет способов укладки: Поддерживает расчеты для диагональной, классической укладки и укладки со смещением.
+Сложные формы: Учитывает ниши, выступы и наличие колонн различной формы (включая круглые), автоматически корректируя площадь и запас.
+Визуализация: Генерирует схематичное изображение раскладки плитки выбранным способом.
+Умный запас: Выполняет расчет покрытия с учетом необходимого технологического запаса, зависящего от сложности объекта.
+🇺🇸 English Version
+This calculator is designed for practical use in specialized construction and flooring retail outlets.
+Key Features:
+Accurate Tile Calculation: Calculates the required amount of tiles based on the floor area.
+Consumables Estimation: Estimates the volume of adhesive and grout, as well as the exact number of tile leveling system (TLS) clips needed.
+Layout Support: Supports calculations for diagonal, classic (grid), and offset (staggered) layouts.
+Complex Geometry: Accounts for niches, ledges, and columns of various shapes (including circular), automatically adjusting the area and wastage margins.
+Visual Representation: Generates a schematic layout of the tile arrangement based on the selected method.
+Smart Wastage Margin: Calculates total coverage including the necessary technological waste margin, tailored to the complexity of the project.
+
+
+
+
+
