@@ -1,4 +1,4 @@
-# floor_title_calc
+
 A specialized tool for construction retailers and flooring experts.
 Key Capabilities:
 Precision Tile Estimates: Calculates the required quantity of tiles based on the net floor area and box dimensions.
