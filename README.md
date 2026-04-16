@@ -12,6 +12,7 @@ Cost Estimation: Provides a total order cost including all main and auxiliary ma
 * **Language:** Python 3.12
 * **Framework:** Streamlit
 * **Libraries:** Matplotlib (Visualization), Math (Geometry)
+* 
 Этот калькулятор разработан для практического использования в специализированных строительных торговых точках.
 Основные возможности программы:
 Точный расчет плитки: Вычисляет необходимое количество материала исходя из площади пола.
